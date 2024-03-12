@@ -1,0 +1,6 @@
+rootProject.name = 'exchange'
+include('integration-api', 'integration-opr')
+include 'exchange-core'
+include 'integration-fixer'
+include 'exchange-app'
+
